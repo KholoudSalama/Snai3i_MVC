@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace Snai3i.DAL.Data.Models
 {
+    //Appuser
     public enum Usertype
     {
         SuperAdmin, Admin, User, Worker
